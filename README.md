@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Uk1120
+- 👀 I’m interested in Simulation for Phisics
+- 🌱 I’m currently learning analytical mechanics and control theory
